@@ -1,6 +1,6 @@
 {
     "name": "ali-eltaweel/signals",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Posix Signals",
     "maintainers": [
         {
